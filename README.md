@@ -32,7 +32,7 @@ Here is the link of the google form i used
 - Clean and interactive dashboard UI
 
 ## Screenshots
-
+![Dashboard Screenshots](Screenshot 2025-05-26 144614.png)
 
 ## How to View the Report
 - Download the .pbix file from this repository
