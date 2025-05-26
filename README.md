@@ -32,9 +32,10 @@ Here is the link of the google form i used
 - Clean and interactive dashboard UI
 
 ## Screenshots
-![Dashboard Screenshots]
+![Dashboard Screenshots 1]
 ([Screenshot 2025-05-26 144614.png](https://github.com/alexleo25/POWER-BI-PROJECT/blob/f42404fc1a6603745faf7c57388e076a45012079/Screenshot%202025-05-26%20144614.png))
-()
+![Dashboard Screenshots 2](https://github.com/alexleo25/POWER-BI-PROJECT/blob/07405fddd4278768d17cef931a465c1b3fd372bb/Screenshot%202025-05-26%20144635.png)
+![Dashboard Screenshots 3]
 
 ## How to View the Report
 - Download the .pbix file from this repository
