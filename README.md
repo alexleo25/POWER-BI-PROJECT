@@ -22,7 +22,7 @@ The dataset was created using a custom survey with questions around:
 - Frequency of workouts
 - Sleep duration and stress levels
 
-Here is the link of the google form i created  
+Here is the link of the google form i used  
 [google form](https://forms.gle/dTsP5vPYerru7aeQ6)
 
 ## Features
@@ -32,7 +32,7 @@ Here is the link of the google form i created
 - Clean and interactive dashboard UI
 
 ## Screenshots
-(Optional but highly recommended – add images of your dashboard here)
+
 
 ## How to View the Report
 - Download the .pbix file from this repository
