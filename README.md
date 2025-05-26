@@ -45,7 +45,7 @@ Here is the link of the google form i used
 - Practiced real-world data cleaning and transformation
 - Learned how to design dashboards that communicate insights clearly
 
-## note
+## Note
 I have not provided the .pbix file or excel .The reason behind this is to prevent from misuse or copying.
 if you are a recruiter or reviewer and would like access to the source file for evaluation purpose, feel free to contact me directlt via
 [linkedin](https://www.linkedin.com/in/alexleo25) or email at alex2k437@gmail.com
