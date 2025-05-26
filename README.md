@@ -39,12 +39,13 @@ Here is the link of the google form i used
 
 ![Dashboard Screenshots 3]([Screenshot 2025-05-26 144842.png](https://github.com/alexleo25/POWER-BI-PROJECT/blob/02808da6a2e2526c48302276fd5c519242e60ced/Screenshot%202025-05-26%20144842.png))
 
-## How to View the Report
-- Download the .pbix file from this repository
-- Open it in Power BI Desktop (free to download from Microsoft)
-- Explore the dashboard and slicers interactively
 
 ## Learnings
 - Improved skills in Power BI DAX and visuals
 - Practiced real-world data cleaning and transformation
 - Learned how to design dashboards that communicate insights clearly
+
+## note
+I have not provided the .pbix file or excel .The reason behind this is to prevent from misuse or copying.
+if you are a recruiter or reviewer and would like access to the source file for evaluation purpose, feel free to contact me directlt via
+[linkedin](www.linkedin.com/in/alexleo25) or email at alex2k437@gmail.com
