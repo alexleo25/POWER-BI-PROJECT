@@ -35,9 +35,11 @@ Here is the link of the google form i used
 ![Dashboard Screenshots 1]
 ([Screenshot 1.png](https://github.com/alexleo25/POWER-BI-PROJECT/blob/24b40e680bbb1f167d730b99461d079e104e9f77/Screenshot%201.png))
 
-![Dashboard Screenshots 2]([Screenshot 2025-05-26 144635.png](https://github.com/alexleo25/POWER-BI-PROJECT/blob/07405fddd4278768d17cef931a465c1b3fd372bb/Screenshot%202025-05-26%20144635.png))
+![Dashboard Screenshots 2]([Screenshot 2.png](https://github.com/alexleo25/POWER-BI-PROJECT/blob/24b40e680bbb1f167d730b99461d079e104e9f77/Screenshot%202.png))
 
-![Dashboard Screenshots 3]([Screenshot 2025-05-26 144842.png](https://github.com/alexleo25/POWER-BI-PROJECT/blob/02808da6a2e2526c48302276fd5c519242e60ced/Screenshot%202025-05-26%20144842.png))
+![Dashboard Screenshots 3]([Screenshot 3.png](https://github.com/alexleo25/POWER-BI-PROJECT/blob/02808da6a2e2526c48302276fd5c519242e60ced/Screenshot%202025-05-26%20144842.png))
+
+![Dashboard Screenshots 4]([Screenshot 4.png](https://github.com/alexleo25/POWER-BI-PROJECT/blob/02808da6a2e2526c48302276fd5c519242e60ced/Screenshot%202025-05-26%20144842.png))
 
 
 ## Learnings
