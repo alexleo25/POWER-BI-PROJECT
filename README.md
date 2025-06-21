@@ -39,7 +39,7 @@ Here is the link of the google form i used
 
 ![Dashboard Screenshots 3]([Screenshot 3.png](https://github.com/alexleo25/POWER-BI-PROJECT/blob/7aa019839c2e76ed6c384b764582a70dc0ba6348/Screenshot%203.png))
 
-![Dashboard Screenshots 4]([Screenshot 4.png](https://github.com/alexleo25/POWER-BI-PROJECT/blob/02808da6a2e2526c48302276fd5c519242e60ced/Screenshot%202025-05-26%20144842.png))
+![Dashboard Screenshots 4]([Screenshot 4.png](https://github.com/alexleo25/POWER-BI-PROJECT/blob/444ef04407b8ebefda0287beec852eddfa8a6c5f/Screenshot%204.png))
 
 
 ## Learnings
