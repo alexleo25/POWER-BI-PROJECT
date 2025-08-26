@@ -48,4 +48,4 @@ Here is the link of the google form i used
 - Learned how to design dashboards that communicate insights clearly
 
 ## file 
-- Health & Lifestyle Insights Dashboard.pbix
+- [Health & Lifestyle Insights Dashboard.pbix](https://github.com/alexleo25/POWER-BI-PROJECT/blob/03284885864aaba2ae6c4fb12b1b8849e6445e79/Health%20%26%20Lifestyle%20Insights%20Dashboard.pbix)
