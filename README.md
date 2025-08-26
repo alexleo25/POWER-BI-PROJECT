@@ -47,3 +47,5 @@ Here is the link of the google form i used
 - Practiced real-world data cleaning and transformation
 - Learned how to design dashboards that communicate insights clearly
 
+## file 
+- Health & Lifestyle Insights Dashboard.pbix
